@@ -37,6 +37,7 @@ body{
     color: #404bbf;
 }
 /* navbar bitiş */
+/* main secitons 1.bölüm başlangıç*/
 .main-section{
     background-color: #2e2f42;
 }
@@ -57,4 +58,17 @@ body{
 }
 .main-section-button:hover{
    color:#404BBF;
+}
+/* main section 1.bölüm bitiş*/
+/* main section-mission 2.bölüm başlangıç*/
+.main-section-mission{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.main-section-mission p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
