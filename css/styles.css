@@ -25,3 +25,6 @@ body{
 .navbar-menu a:hover{
     color: #404bbf;
 }
+.menu-studio a:visited{
+    color: #404bbf;
+}
