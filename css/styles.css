@@ -27,11 +27,12 @@ body{
     color: #404bbf;
 }
 .nav-address a{
-    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
+}
+.nav-address{
+    font-style: normal;
 }
 .nav-address a:hover{
     color: #404bbf;
@@ -61,14 +62,16 @@ body{
 }
 /* main section 1.bölüm bitiş*/
 /* main section-mission 2.bölüm başlangıç*/
-.main-section-mission-list{
+.section-mission{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.main-section-mission-list p{
+.section-mission-first{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
