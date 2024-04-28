@@ -61,14 +61,14 @@ body{
 }
 /* main section 1.bölüm bitiş*/
 /* main section-mission 2.bölüm başlangıç*/
-.main-section-mission{
+.main-section-mission-list{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.main-section-mission p{
+.main-section-mission-list p{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
