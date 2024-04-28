@@ -3,6 +3,7 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
+/* navbar başlangıç */
 .logo-webstudio{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -24,4 +25,36 @@ body{
 }
 .navbar-menu a:hover{
     color: #404bbf;
+}
+.nav-address a{
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+.nav-address a:hover{
+    color: #404bbf;
+}
+/* navbar bitiş */
+.main-section{
+    background-color: #2e2f42;
+}
+.main-section-head{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.main-section-button{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.main-section-button:hover{
+   color:#404BBF;
 }
