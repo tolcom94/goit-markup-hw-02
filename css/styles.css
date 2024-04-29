@@ -38,7 +38,7 @@ body{
     color: #404bbf;
 }
 /* navbar bitiş */
-/* main secitons 1.bölüm başlangıç*/
+/* 1.bölüm başlangıç*/
 .main-section{
     background-color: #2e2f42;
 }
@@ -60,8 +60,8 @@ body{
 .main-section-button:hover{
    background-color:#404BBF;
 }
-/* main section 1.bölüm bitiş*/
-/* main section-mission 2.bölüm başlangıç*/
+/* 1.bölüm bitiş*/
+/* 2.bölüm başlangıç*/
 .section-mission h2,h3{
     font-weight: 500;
     font-size: 20px;
@@ -73,8 +73,8 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* main section-mission 2.bölüm bitiş*/
-/* 3.bölüm section-ourteam başlangıç*/
+/* 2.bölüm bitiş*/
+/* 3.bölüm başlangıç*/
 .section-ourteam{
     background-color: #F4F4FD;
 }
@@ -110,8 +110,8 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-/*4.bölüm sonu*/
-/*footer*/
+/*4.bölüm bitiş*/
+/*footer başlangıç*/
 .footer-class{
     background-color:  #2e2f42;
 }
@@ -133,3 +133,4 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+/*footer bitiş*/
