@@ -57,7 +57,7 @@ body{
     color: #FFFFFF;
     cursor: pointer;
 }
-.main-section-button:hover{
+.main-section-button:hover,.main-section-button:focus{
    background-color:#404BBF;
 }
 /* 1.bölüm bitiş*/
