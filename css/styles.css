@@ -23,7 +23,7 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.navbar-menu a:hover, .navbar-menu a:hover{
+.navbar-menu a:hover,.navbar-menu a:focus{
     color: #404bbf;
 }
 .nav-address a{
@@ -34,7 +34,7 @@ body{
 .nav-address{
     font-style: normal;
 }
-.nav-address a:hover, .nav-address a:hover{
+.nav-address a:hover,.nav-address a:focus{
     color: #404bbf;
 }
 /* navbar bitiş */
