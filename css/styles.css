@@ -26,7 +26,7 @@ body{
 .navbar-menu a:hover,.navbar-menu a:focus{
     color: #404bbf;
 }
-.nav-address a{
+.nav-address-first{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
