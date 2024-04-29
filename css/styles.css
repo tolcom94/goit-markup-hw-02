@@ -27,6 +27,7 @@ body{
     color: #404bbf;
 }
 .nav-address-first{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -34,7 +35,7 @@ body{
 .nav-address{
     font-style: normal;
 }
-.nav-address a:hover,.nav-address a:focus{
+.nav-address-first:hover,.nav-address-first:focus{
     color: #404bbf;
 }
 /* navbar bitiş */
